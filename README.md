@@ -1,1 +1,1 @@
-# image_segmentation_proj
+# Traffic signs segmentation project
